@@ -1,4 +1,8 @@
-⚠️ 🛠 The collection is in **Work In Progress** state. 🛠 ⚠️
+----
+
+<p align="center">⚠️ 🛠 <b>Please note</b>: The collection is in <b>Work In Progress</b> state. 🛠 ⚠️</p>
+
+----
 
 # Delinea Collection for Ansible
 
